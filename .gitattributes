@@ -1,0 +1,2 @@
+partt1 filter=lfs diff=lfs merge=lfs -text
+partt2 filter=lfs diff=lfs merge=lfs -text
